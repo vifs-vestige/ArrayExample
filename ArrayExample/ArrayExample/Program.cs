@@ -17,6 +17,8 @@ namespace ArrayExample
             Console.ReadLine();
             MultiDimensionalArray.ThreeDArray();
             Console.ReadLine();
+            MultiDimensionalArray.JaggedArray();
+            Console.ReadLine();
             new DynamicArray();
             Console.ReadLine();
         }
